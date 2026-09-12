@@ -1,0 +1,141 @@
+[Header]
+Data File Name,D:\Vocs\Sample\sample1.qgd
+Output Date,2026/6/19
+Output Time,16:44:20
+
+[MC Peak Table]
+# of Peaks,79
+Mass,TIC
+Peak#,Ret.Time,Proc.From,Proc.To,Mass,Area,Height,A/H,Conc.,Mark,Name,Ret. Index
+1,3.017,3.005,3.045,TIC,51496173,28098115,1.83,31.18,   ,n-Hexane,
+2,3.061,3.045,3.110,TIC,67061925,20157985,3.33,40.61, V ,2-Ethyl-oxetane,
+3,3.124,3.110,3.150,TIC,22172028,17368508,1.28,13.43, V ,Cyclopentane, methyl-,
+4,3.344,3.320,3.370,TIC,1536926,1330597,1.16,0.93,   ,Cyclohexane,
+5,3.430,3.410,3.475,TIC,34429,31731,1.09,0.02,   ,Hexane, 3-methyl-,
+6,3.697,3.670,3.755,TIC,72634,29990,2.42,0.04,   ,Heptane,
+7,3.857,3.825,3.905,TIC,40999,23458,1.75,0.02,   ,Furan, tetrahydro-2,5-dimethyl-,
+8,4.066,4.030,4.100,TIC,32642,18144,1.80,0.02,   ,Cyclopentane, 1,1,3-trimethyl-,
+9,4.168,4.100,4.200,TIC,38297,13334,2.87,0.02, V ,Hexane, 2,4-dimethyl-,
+10,4.799,4.765,4.865,TIC,47341,15607,3.03,0.03,   ,Hexane, 4-ethyl-2-methyl-,
+11,5.195,5.155,5.265,TIC,212433,95550,2.22,0.13,   ,3-Hexanone,
+12,5.297,5.265,5.380,TIC,259597,109293,2.38,0.16, V ,2-Hexanone,
+13,5.526,5.490,5.565,TIC,91549,39115,2.34,0.06,   ,3-Hexanol,
+14,5.590,5.565,5.610,TIC,45148,21751,2.08,0.03, V ,Hexane, 2,4-dimethyl-,
+15,5.632,5.610,5.720,TIC,112455,42102,2.67,0.07, V ,2-Hexanol,
+16,5.962,5.915,6.020,TIC,84797,37310,2.27,0.05,   ,Cyclotrisiloxane, hexamethyl-,
+17,6.143,6.105,6.200,TIC,92487,41973,2.20,0.06,   ,Undecane, 2,4-dimethyl-,
+18,7.377,7.335,7.425,TIC,44968,19726,2.28,0.03,   ,Octane, 4-methyl-,
+19,12.276,12.215,12.355,TIC,194092,64907,2.99,0.12,   ,Octane, 2,4,6-trimethyl-,
+20,14.412,14.365,14.465,TIC,48353,16409,2.95,0.03,   ,3-Ethyl-3-methylheptane,
+21,16.182,16.150,16.245,TIC,38144,14520,2.63,0.02,   ,Pentadecane,
+22,20.063,20.005,20.150,TIC,143125,42642,3.36,0.09,   ,Dodecane,
+23,21.836,21.765,21.925,TIC,422674,119526,3.54,0.26,   ,Benzene, 1,3-bis(1,1-dimethylethyl)-,
+24,22.836,22.795,22.910,TIC,41723,13761,3.03,0.03,   ,Heneicosane,
+25,32.246,32.190,32.325,TIC,124275,38738,3.21,0.08,   ,2,4-Di-tert-butylphenol,
+26,33.715,33.695,33.755,TIC,13713,6029,2.27,0.01,   ,,
+27,34.194,34.115,34.215,TIC,21035,7138,2.95,0.01,   ,,
+28,34.925,34.905,34.985,TIC,114621,14284,8.02,0.07,   ,,
+29,35.003,34.985,35.050,TIC,132036,64937,2.03,0.08, V ,Cyclooctasiloxane, hexadecamethyl-,
+30,36.227,36.200,36.280,TIC,24804,14650,1.69,0.02,   ,Heneicosane,
+31,37.140,37.060,37.160,TIC,840026,228046,3.68,0.51,   ,Cyclononasiloxane, octadecamethyl-,
+32,37.182,37.160,37.210,TIC,684917,232732,2.94,0.41, V ,,
+33,37.235,37.210,37.250,TIC,554050,236051,2.35,0.34, V ,,
+34,37.260,37.250,37.270,TIC,282538,236416,1.20,0.17, V ,,
+35,37.295,37.270,37.310,TIC,584975,245044,2.39,0.35, V ,,
+36,37.320,37.310,37.370,TIC,907550,252404,3.60,0.55, V ,,
+37,37.401,37.370,37.485,TIC,918050,299075,3.07,0.56, V ,Cyclononasiloxane, octadecamethyl-,
+38,37.890,37.835,37.945,TIC,63151,13611,4.64,0.04,   ,,
+39,38.052,37.945,38.105,TIC,349799,47204,7.41,0.21, V ,Cyclooctasiloxane, hexadecamethyl-,
+40,38.155,38.105,38.190,TIC,113364,26716,4.24,0.07, V ,,
+41,38.259,38.190,38.410,TIC,576860,53898,10.70,0.35, V ,,
+42,38.480,38.410,38.535,TIC,144138,22773,6.33,0.09, V ,,
+43,38.893,38.855,39.000,TIC,62566,12542,4.99,0.04,   ,,
+44,39.225,39.165,39.235,TIC,1455541,647785,2.25,0.88,   ,Cyclodecasiloxane, eicosamethyl-,
+45,39.251,39.235,39.315,TIC,1541217,698722,2.21,0.93, V ,Cyclodecasiloxane, eicosamethyl-,
+46,39.340,39.315,39.355,TIC,57367,25215,2.28,0.03, V ,,
+47,39.365,39.355,39.410,TIC,31906,19843,1.61,0.02, V ,,
+48,39.502,39.410,39.550,TIC,152360,29226,5.21,0.09,   ,Palmitoleic acid,
+49,39.683,39.625,39.745,TIC,501365,147472,3.40,0.30,   ,n-Hexadecanoic acid,
+50,39.769,39.745,39.800,TIC,114150,40753,2.80,0.07, V ,Cyclononasiloxane, octadecamethyl-,
+51,39.831,39.800,39.875,TIC,177112,65645,2.70,0.11, V ,Cyclononasiloxane, octadecamethyl-,
+52,39.911,39.875,39.960,TIC,189672,68566,2.77,0.11, V ,Cyclononasiloxane, octadecamethyl-,
+53,40.005,39.960,40.045,TIC,108629,23515,4.62,0.07, V ,,
+54,40.075,40.045,40.120,TIC,202908,51066,3.97,0.12, V ,,
+55,40.137,40.120,40.220,TIC,182906,54606,3.35,0.11, V ,,
+56,40.608,40.550,40.680,TIC,96743,27946,3.46,0.06,   ,,
+57,40.706,40.680,40.730,TIC,19279,12299,1.57,0.01,   ,,
+58,40.842,40.730,40.915,TIC,2716245,1167273,2.33,1.64, V ,Cyclooctasiloxane, hexadecamethyl-,
+59,40.945,40.915,41.020,TIC,84521,21445,3.94,0.05, V ,,
+60,41.135,41.120,41.165,TIC,11665,6399,1.82,0.01,   ,,
+61,41.195,41.165,41.235,TIC,42513,17779,2.39,0.03, V ,1-Heptacosanol,
+62,41.274,41.235,41.305,TIC,51817,20498,2.53,0.03, V ,Pentacosane,
+63,41.338,41.305,41.370,TIC,43760,20550,2.13,0.03, V ,Cyclononasiloxane, octadecamethyl-,
+64,41.435,41.375,41.490,TIC,61429,12698,4.84,0.04,   ,,
+65,41.514,41.490,41.540,TIC,43563,22281,1.96,0.03, V ,,
+66,41.603,41.540,41.645,TIC,102299,31203,3.28,0.06, V ,Cyclononasiloxane, octadecamethyl-,
+67,41.729,41.645,41.845,TIC,184792,23727,7.79,0.11, V ,Cyclononasiloxane, octadecamethyl-,
+68,42.262,42.225,42.325,TIC,51747,17406,2.97,0.03,   ,,
+69,42.471,42.400,42.555,TIC,2823548,1034840,2.73,1.71,   ,Cyclononasiloxane, octadecamethyl-,
+70,43.087,43.050,43.125,TIC,28061,12799,2.19,0.02,   ,,
+71,43.185,43.135,43.205,TIC,19436,7341,2.65,0.01,   ,,
+72,43.590,43.530,43.645,TIC,97547,25240,3.86,0.06,   ,Cyclononasiloxane, octadecamethyl-,
+73,43.665,43.645,43.690,TIC,7838,5020,1.56,0.00, V ,,
+74,43.780,43.760,43.830,TIC,26457,7936,3.33,0.02,   ,,
+75,43.850,43.830,43.900,TIC,62268,17175,3.63,0.04, V ,n-Pentadecanol,
+76,43.938,43.900,44.025,TIC,135903,34012,4.00,0.08, V ,Pentacosane,
+77,44.426,44.345,44.535,TIC,2733990,812041,3.37,1.66,   ,Cyclononasiloxane, octadecamethyl-,
+78,44.831,44.785,44.905,TIC,70644,20881,3.38,0.04,   ,Sulfurous acid, cyclohexylmethyl pentadecyl ester,
+79,45.227,45.190,45.300,TIC,44249,13024,3.40,0.03,   ,,
+
+[MS Similarity Search Results for Spectrum Process Table]
+# of Spectrum,79
+Spectrum#,Hit #,SI,CAS #,Name,Mol.Weight,Mol.Form,CLASS1,CLASS2,CLASS3,CLASS4,CLASS5,Retention Index,Description,Serial #,Library Name
+1,1,94,110 - 54 - 3,n-Hexane $$ Hexane $$ Skellysolve B $$ n-C6H14 $$ Esani $$ Heksan $$ Hexanen $$ Hexyl hydride $$ Gettysolve-B $$ NCI-C60571 $$ NSC 68472 $$ Exxsol Hexane (Salt/Mix) $$ UN 1208 (Related) $$,86,C6H14,,,,,,618,,1114,D:\GCMSsolution\library\NIST17s.lib
+2,1,91,0 - 00 - 0,2-Ethyl-oxetane,86,C5H10O,,,,,,629,,895,D:\GCMSsolution\library\NIST17-1.lib
+3,1,92,96 - 37 - 7,Cyclopentane, methyl- $$ Methylcyclopentane $$ UN 2298 $$,84,C6H12,,,,,,661,,934,D:\GCMSsolution\library\NIST17s.lib
+4,1,97,110 - 82 - 7,Cyclohexane $$ Benzene, hexahydro- $$ Hexahydrobenzene $$ Hexamethylene $$ Hexanaphthene $$ Cicloesano $$ Cykloheksan $$ Rcra waste number U056 $$ UN 1145 $$ NSC 406835 $$,84,C6H12,,,,,,719,,756,D:\GCMSsolution\library\NIST17-1.lib
+5,1,95,589 - 34 - 4,Hexane, 3-methyl- $$ 2-Ethylpentane $$ 3-Methylhexane $$,100,C7H16,,,,,,653,,2169,D:\GCMSsolution\library\NIST17-1.lib
+6,1,92,142 - 82 - 5,Heptane $$ n-Heptane $$ Dipropylmethane $$ Heptyl hydride $$ Skellysolve C $$ n-C7H16 $$ Eptani $$ Heptan $$ Heptanen $$ Gettysolve-C $$ NSC 62784 $$ Exxsol heptane (Salt/Mix) $$ UN 1206 (Related) $$,100,C7H16,,,,,,717,,2166,D:\GCMSsolution\library\NIST17-1.lib
+7,1,94,1003 - 38 - 9,Furan, tetrahydro-2,5-dimethyl- $$ Tetrahydro-2,5-dimethylfuran $$ 2,5-Dimethyltetrahydrofuran $$ 2,5-Dimethyltetrahydrofuran,c&t $$,100,C6H12O,,,,,,711,,2188,D:\GCMSsolution\library\NIST17s.lib
+8,1,93,4516 - 69 - 2,Cyclopentane, 1,1,3-trimethyl- $$ 1,1,3-Trimethylcyclopentane $$,112,C8H16,,,,,,795,,3806,D:\GCMSsolution\library\NIST17-1.lib
+9,1,91,589 - 43 - 5,Hexane, 2,4-dimethyl- $$ 2,4-Dimethylhexane $$,114,C8H18,,,,,,688,,4036,D:\GCMSsolution\library\NIST17s.lib
+10,1,91,3074 - 75 - 7,Hexane, 4-ethyl-2-methyl- $$ 4-Ethyl-2-methylhexane $$ 2-Methyl-4-ethylhexane $$ Hexane, 3-ethyl-5-methyl $$,128,C9H20,,,,,,788,,7841,D:\GCMSsolution\library\NIST17-1.lib
+11,1,97,589 - 38 - 8,3-Hexanone $$ Ethyl propyl ketone $$ Hexan-3-one $$ n-C3H7COC2H5 $$ Hexanone-(3) $$ Aethylpropylketon $$ Ethyl n-propyl ketone $$,100,C6H12O,,,,,,754,,2206,D:\GCMSsolution\library\NIST17s.lib
+12,1,97,591 - 78 - 6,2-Hexanone $$ n-Butyl methyl ketone $$ Butyl methyl ketone $$ Hexan-2-one $$ Methyl butyl ketone $$ Methyl n-butyl ketone $$ 2-Oxohexane $$ n-C4H9COCH3 $$ Hexanone-2 $$ Ketone, butyl methyl $$ MBK $$ MNBK $$ Propylacetone $$,100,C6H12O,,,,,,754,,2079,D:\GCMSsolution\library\NIST17-1.lib
+13,1,95,623 - 37 - 0,3-Hexanol $$ Hexan-3-ol $$ C2H5CH(OH)C3H7 $$ Ethylpropylcarbinol $$ Hexanol-(3) $$,102,C6H14O,,,,,,780,,2538,D:\GCMSsolution\library\NIST17s.lib
+14,1,89,589 - 43 - 5,Hexane, 2,4-dimethyl- $$ 2,4-Dimethylhexane $$,114,C8H18,,,,,,688,,4036,D:\GCMSsolution\library\NIST17s.lib
+15,1,95,626 - 93 - 7,2-Hexanol $$ n-C4H9CH(OH)CH3 $$ n-Butylmethylcarbinol $$ Hexanol-(2) $$ sec-Hexyl alcohol $$ n-Hexan-2-ol $$ 2-Hexyl alcohol $$ Hexan-2-ol $$,102,C6H14O,,,,,,780,,2423,D:\GCMSsolution\library\NIST17-1.lib
+16,1,91,541 - 05 - 9,Cyclotrisiloxane, hexamethyl- $$ Dimethylsiloxane cyclic trimer $$ Hexamethylcyclotrisiloxane $$ CH7260 $$ 2,2,4,4,6,6-Hexamethyl-1,3,5,2,4,6-trioxatrisilinane # $$,222,C6H18O3Si3,,,,,,620,,25139,D:\GCMSsolution\library\NIST17s.lib
+17,1,93,17312 - 80 - 0,Undecane, 2,4-dimethyl- $$ 2,4-Dimethylundecane $$,184,C13H28,,,,,,1185,,18491,D:\GCMSsolution\library\NIST17s.lib
+18,1,92,2216 - 34 - 4,Octane, 4-methyl- $$ 4-Methyloctane $$ 1,3-Dimethylheptane $$,128,C9H20,,,,,,852,,7836,D:\GCMSsolution\library\NIST17-1.lib
+19,1,95,62016 - 37 - 9,Octane, 2,4,6-trimethyl- $$ 2,4,6-Trimethyloctane # $$,156,C11H24,,,,,,922,,20103,D:\GCMSsolution\library\NIST17-1.lib
+20,1,91,17302 - 01 - 1,3-Ethyl-3-methylheptane $$ Heptane, 3-ethyl-3-methyl- $$,142,C10H22,,,,,,931,,13119,D:\GCMSsolution\library\NIST17-1.lib
+21,1,91,629 - 62 - 9,Pentadecane $$ n-Pentadecane $$ CH3(CH2)13CH3 $$,212,C15H32,,,,,,1512,,59978,D:\GCMSsolution\library\NIST17-1.lib
+22,1,96,112 - 40 - 3,Dodecane $$ n-Dodecane $$ Adakane 12 $$ Ba 51-090453 $$ CH3(CH2)10CH3 $$ Bihexyl $$ Dihexyl $$ Duodecane $$ NSC 8714 $$,170,C12H26,,,,,,1214,,15532,D:\GCMSsolution\library\NIST17s.lib
+23,1,94,1014 - 60 - 4,Benzene, 1,3-bis(1,1-dimethylethyl)- $$ Benzene, m-di-tert-butyl- $$ m-Di-tert-butylbenzene $$ 1,3-Di-tert-butylbenzene $$ 1,3-Ditertiarybutylbenzene $$ 1,3-bis(1,1-Dimethylethyl)benzene $$,190,C14H22,,,,,,1334,,41959,D:\GCMSsolution\library\NIST17-1.lib
+24,1,91,629 - 94 - 7,Heneicosane $$ n-Heneicosane $$ Henicosane # $$,296,C21H44,,,,,,2109,,32774,D:\GCMSsolution\library\NIST17s.lib
+25,1,95,96 - 76 - 4,2,4-Di-tert-butylphenol $$ Phenol, 2,4-bis(1,1-dimethylethyl)- $$ Phenol, 2,4-di-tert-butyl- $$ 2,4-di-t-Butylphenol $$ 1-Hydroxy-2,4-di-tert-butylbenzene $$ Antioxidant No. 33 $$ Prodox 146 $$ Prodox 146A-85X $$ 2,4-Bis(1,1-dimethylethyl)phenol $$ 2,4-Bis(tert-butyl)phenol $$ NSC 174502 $$,206,C14H22O,,,,,,1555,,22784,D:\GCMSsolution\library\NIST17s.lib
+29,1,92,556 - 68 - 3,Cyclooctasiloxane, hexadecamethyl- $$ Hexadecamethyl-cyclooctasioxane $$ Hexadecamethylcyclooctasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16-Hexadecamethylcyclooctasiloxane # $$,592,C16H48O8Si8,,,,,,1654,,6526,D:\GCMSsolution\library\NIST17-2.lib
+30,1,90,629 - 94 - 7,Heneicosane $$ n-Heneicosane $$ Henicosane # $$,296,C21H44,,,,,,2109,,32774,D:\GCMSsolution\library\NIST17s.lib
+31,1,90,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,39159,D:\GCMSsolution\library\NIST17s.lib
+37,1,91,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,39159,D:\GCMSsolution\library\NIST17s.lib
+39,1,84,556 - 68 - 3,Cyclooctasiloxane, hexadecamethyl- $$ Hexadecamethyl-cyclooctasioxane $$ Hexadecamethylcyclooctasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16-Hexadecamethylcyclooctasiloxane # $$,592,C16H48O8Si8,,,,,,1654,,6526,D:\GCMSsolution\library\NIST17-2.lib
+44,1,82,18772 - 36 - 6,Cyclodecasiloxane, eicosamethyl- $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18,20,20-Icosamethylcyclodecasiloxane # $$ Eicosamethyl-cyclodecasiloxane $$,740,C20H60O10Si10,,,,,,2067,,9236,D:\GCMSsolution\library\NIST17-2.lib
+45,1,81,18772 - 36 - 6,Cyclodecasiloxane, eicosamethyl- $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18,20,20-Icosamethylcyclodecasiloxane # $$ Eicosamethyl-cyclodecasiloxane $$,740,C20H60O10Si10,,,,,,2067,,9236,D:\GCMSsolution\library\NIST17-2.lib
+48,1,94,373 - 49 - 9,Palmitoleic acid $$ cis-9-Hexadecenoic acid $$ 9-Hexadecenoic acid, (Z)- $$ cis-.delta.9-Hexadecenoic acid $$ Palmitolinoleic acid $$ 9-cis-Hexadecenoic acid $$,254,C16H30O2,,,,,,1976,,97873,D:\GCMSsolution\library\NIST17-1.lib
+49,1,94,57 - 10 - 3,n-Hexadecanoic acid $$ Hexadecanoic acid $$ n-Hexadecoic acid $$ Palmitic acid $$ Pentadecanecarboxylic acid $$ 1-Pentadecanecarboxylic acid $$ Cetylic acid $$ Emersol 140 $$ Emersol 143 $$ Hexadecylic acid $$ Hydrofol $$ Hystrene 8016 $$ Hystrene 9016 $$ Industrene 4516 $$ Glycon P-45 $$ Prifac 2960 $$ NSC 5030 $$ Palmitinic acid $$ Kortacid 1695 $$,256,C16H32O2,,,,,,1968,,29349,D:\GCMSsolution\library\NIST17s.lib
+50,1,80,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+51,1,87,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+52,1,86,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+58,1,88,556 - 68 - 3,Cyclooctasiloxane, hexadecamethyl- $$ Hexadecamethyl-cyclooctasioxane $$ Hexadecamethylcyclooctasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16-Hexadecamethylcyclooctasiloxane # $$,592,C16H48O8Si8,,,,,,1654,,6526,D:\GCMSsolution\library\NIST17-2.lib
+61,1,90,2004 - 39 - 9,1-Heptacosanol $$ Heptacosan-1-ol $$ Heptacosanol $$,396,C27H56O,,,,,,2948,,225637,D:\GCMSsolution\library\NIST17-1.lib
+62,1,87,629 - 99 - 2,Pentacosane $$ n-Pentacosane $$,352,C25H52,,,,,,2506,,194678,D:\GCMSsolution\library\NIST17-1.lib
+63,1,83,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+66,1,82,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+67,1,83,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+69,1,90,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+72,1,82,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+75,1,84,629 - 76 - 5,n-Pentadecanol $$ n-1-Pentadecanol $$ Pentadecanol $$ Neodol 5 $$ 1-Pentadecanol $$ Pentadecan-1-ol $$ Pentadecyl alcohol $$,228,C15H32O,,,,,,1755,,74287,D:\GCMSsolution\library\NIST17-1.lib
+76,1,91,629 - 99 - 2,Pentacosane $$ n-Pentacosane $$,352,C25H52,,,,,,2506,,194678,D:\GCMSsolution\library\NIST17-1.lib
+77,1,87,556 - 71 - 8,Cyclononasiloxane, octadecamethyl- $$ Octadeamethyl-cyclononasiloxane $$ 2,2,4,4,6,6,8,8,10,10,12,12,14,14,16,16,18,18-Octadecamethylcyclononasiloxane # $$ Octadecamethylcyclononasiloxane $$,666,C18H54O9Si9,,,,,,1860,,8354,D:\GCMSsolution\library\NIST17-2.lib
+78,1,83,0 - 00 - 0,Sulfurous acid, cyclohexylmethyl pentadecyl ester,388,C22H44O3S,,,,,,2895,,220853,D:\GCMSsolution\library\NIST17-1.lib
