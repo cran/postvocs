@@ -1,11 +1,11 @@
-c12e429229fed9fe9f9d265c249c1f3c *DESCRIPTION
+3a192008de7940314609312718042296 *DESCRIPTION
 eea469c1e513cb55e9fb0e67ffda77cb *NAMESPACE
-f232f2bc829c27a19cebd0ffe65c26af *NEWS.md
+1845ac19109c0af736ec28610ab3acb5 *NEWS.md
 913b6217fb0d7e2dca634c38af9ff592 *R/annotate_compounds.R
 795f1557f98bc95a6e75f68b9e293a54 *R/batch_process_gcms.R
 a5f97ff6474e61039f813ba13350b275 *R/build_cas_abundance.R
 43bc866b3b0debe579e1d80f7137462a *R/extract_peak_areas.R
-bb135eb1a6780a1212da4aefeb25d498 *R/filter_by_frequency.R
+02525fabf11ee02825787b91f2176ab5 *R/filter_by_frequency.R
 35592034e4c7b925dbaab7793c353652 *R/globals.R
 b45cbc104922260213c69c0dea68070c *R/process_gcms_txt.R
 c738140dbbfd5f98e855dc14566623f2 *R/save_gcms_results.R
@@ -32,7 +32,7 @@ aa080b278185078bdf4f71c6b4338a9f *man/batch_process_gcms.Rd
 efd317e76ca0cc33900bf49c76e2944b *man/build_annotation_from_cache_and_user.Rd
 ba0152d9c05ec2fc5ba71318ef9b2a90 *man/build_cas_abundance.Rd
 3c034a788937875c1eeb2de00ae67e12 *man/extract_peak_areas.Rd
-397144d99adff062d5fbbee16d22ae80 *man/filter_by_frequency.Rd
+ef1c4f5a71e5afe464b91295b2baed1f *man/filter_by_frequency.Rd
 0b9b9b3bddb443db580efb8f23bd44b3 *man/process_gcms_txt.Rd
 6c4200cce95d26a14fa380c005db8265 *man/save_gcms_results.Rd
 08995055f114b0f35ab28b6aee763f77 *man/save_postvocs_results.Rd

@@ -1,6 +1,6 @@
 Package: postvocs
 Title: Post-Processing Tools for GC-MS Volatile Organic Compound Data
-Version: 0.2.5
+Version: 0.2.6
 Authors@R: person("Xiaotao", "Han", email = "postvocs.r@gmail.com", role = c("aut", "cre"))
 Description: Provides functions for processing Shimadzu gas
     chromatography-mass spectrometry (GC-MS) exported text files,
@@ -18,8 +18,8 @@ Language: en-US
 Encoding: UTF-8
 Config/roxygen2/version: 8.0.0
 NeedsCompilation: no
-Packaged: 2026-09-01 05:29:47 UTC; Hanxt
+Packaged: 2026-11-10 09:19:42 UTC; Hanxt
 Author: Xiaotao Han [aut, cre]
 Maintainer: Xiaotao Han <postvocs.r@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-09-12 07:10:08 UTC
+Date/Publication: 2026-11-10 10:10:02 UTC

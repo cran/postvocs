@@ -1,3 +1,17 @@
+# postvocs 0.2.6
+
+## New Features
+- `filter_by_frequency()` gains a new argument `remove_blank_compounds` (default `FALSE`).
+  - When `FALSE`, blank samples are excluded from frequency calculations, but compounds detected in blanks are retained. A new flag column `In_Blank` (`"*"` if detected in any blank sample, otherwise empty) is added to `abundance`, `round1`, `round2`, and `summary_table`. Blank sample columns are retained in `abundance` (placed before the frequency columns).
+  - When `TRUE`, compounds detected in any blank sample are removed from all samples. `summary_table` keeps the `Removed_in_Blank` column (`"-"` for removed compounds) and computes their frequencies (overall and within each group) from the original data, excluding blank samples from the denominator. No `In_Blank` column is added in this mode.
+
+## Enhancements
+- `summary_table` in `filter_by_frequency()` no longer contains the `Removed_in_Blank` column when `remove_blank_compounds = FALSE`.
+- Blank and internal standard samples are always excluded from frequency calculations, regardless of `remove_blank_compounds`.
+
+## Documentation
+- Updated `filter_by_frequency()` documentation to describe the new `remove_blank_compounds` argument, the `In_Blank` flag column, and the revised `summary_table` layout.
+
 # postvocs 0.2.5
 
 ## Breaking Changes
